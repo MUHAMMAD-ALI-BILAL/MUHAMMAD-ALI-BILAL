@@ -1,4 +1,4 @@
-### Hi I AM ALI-BILAL 👋
+### Hi! I AM ALI-BILAL 👋
 
 -🔭 I’m currently working on Python
 - 🌱 I’m currently learning Languages
